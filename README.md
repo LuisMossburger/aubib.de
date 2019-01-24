@@ -5,3 +5,11 @@ Die Plattform für das Studium Bibliotheks- und Informationsmanagement in Bayern
 Mehr unter https://www.aubib.de/blog/article/2018/09/17/aubibde-information-bewegt-die-welt/ 
 
 Information bewegt die Welt!
+
+
+
+___________________________________________________________
+
+Als CMS wurde TYPO3 mit einigen Extensions verwendet, 
+alle Templates, Skripten und Design sind selbst erarbeitet.
+
