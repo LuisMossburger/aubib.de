@@ -13,3 +13,6 @@ ___________________________________________________________
 Als CMS wurde TYPO3 mit einigen Extensions verwendet, 
 alle Templates, Skripten und Design sind selbst erarbeitet.
 
+
+
+![aubib.de Banner](https://www.aubib.de/fileadmin/Template/resources/public/img/logo/download/aubib_Banner_500x1500.png)
